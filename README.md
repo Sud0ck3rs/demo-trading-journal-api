@@ -164,3 +164,7 @@ demo-trading-journal-api/
 - Unit tests (Pytest backend, Jest frontend)
 - Deployment on Fly.io / Render / Railway
 
+---
+
+<img width="1472" height="567" alt="image" src="https://github.com/user-attachments/assets/ef44cc2d-17fa-41f3-9be5-56ca2733938d" />
+
