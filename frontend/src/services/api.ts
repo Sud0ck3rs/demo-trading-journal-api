@@ -1,6 +1,6 @@
 import { Trade, TradeCreate, StatsSummary } from '../types/trade';
 
-const API_BASE_URL = 'http://localhost:8000/api';
+const API_BASE_URL = '/api';
 
 export const api = {
   async getTrades(): Promise<Trade[]> {
